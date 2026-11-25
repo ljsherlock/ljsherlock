@@ -2,6 +2,14 @@
 
 I turn founder ideas into launch-ready web products, pairing hands-on frontend craft with server-side and AI infrastructure.
 
+**About**
+
+I’m a senior full-stack product engineer with 12 years of experience across startups, agencies and in-house teams. I partner directly with CEOs and stakeholders, translating business goals into technical proposals, design direction and shipped features.
+
+I ramp up quickly on new codebases, teams and industries, and bring a designer’s eye to engineering — turning Figma files into clean, reusable interfaces. Most recently I built a programmatic SEO system that took a startup from zero to 300+ Google-indexed pages and 2,000+ daily search impressions within three months.
+
+
+
 <!--
 **ljsherlock/ljsherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
