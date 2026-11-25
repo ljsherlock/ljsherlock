@@ -1,5 +1,7 @@
 ### Hi, I'm Lewis. 👋
 
+I turn founder ideas into launch-ready web products, pairing hands-on frontend craft with server-side and AI infrastructure.
+
 <!--
 **ljsherlock/ljsherlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
